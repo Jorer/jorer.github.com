@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: ufo.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+link: https://en.wikipedia.org/wiki/Drums
+description: I've been beating these for the better part of my life.
+
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: coins.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+link: https://en.wikipedia.org/wiki/Disc_golf
+category: Web Development
+description: Disc golf is a great and cheap outdoor activity. I'm an avid bushwhacker, only lost five(5) discs so far!
+
+---

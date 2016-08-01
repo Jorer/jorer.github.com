@@ -1,10 +1,10 @@
 # Site settings
-title: Jorer Solutions
+title: Jonne Räsänen
 email: jonne.rasanen@jorer.net
 url: https://jorer.github.io
 description: "Web Developer Enthusiast"
 skills: "Web Developer Enthusiast"
-meta_author: LastName FirstName
+meta_author: FirstName LastName
 
 # Google webmaster tools
 google_verify: YVFNlsKmVALR5LxDmRRKHLp0KTuh7yui5GmCqiVvgvI
@@ -31,7 +31,7 @@ color:
 # Footer settings
 footer:
   copyright: jorer.net
-  location: Location
+  location: Me
   social: Around the Web
   credits: Credits
 
@@ -48,11 +48,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Jyväskylä,
+  - line: Jonne Räsänen,
   - line: Finland
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Special thanks to everyone for making me who I am.'
 
 # Build settings
 markdown: kramdown

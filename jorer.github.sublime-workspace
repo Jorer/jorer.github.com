@@ -47,6 +47,23 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Highlights\n\nOde to Jorer\nJorer Jorer Chol\nhttps://www.youtube.com/watch?v=eKDnsOtLd3w\n\nHankasalmen Gluteenittomat\nhttp://hankasalmengluteenittomat.com\n\n",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Windows",
+				"name": "Highlights"
+			}
+		},
+		{
+			"file": "jorer.github.com",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -86,10 +103,33 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/jonne/projects/jorer.github.com"
+		"/C/Users/jonne/projects/jorer.github.com",
+		"/C/Users/jonne/projects/jorer.github.com/_includes",
+		"/C/Users/jonne/projects/jorer.github.com/_includes/css",
+		"/C/Users/jonne/projects/jorer.github.com/js",
+		"/C/Users/jonne/projects/jorer.github.com/vendor"
 	],
 	"file_history":
 	[
+		"/C/Users/jonne/projects/jorer.github.com/_config.yml",
+		"/C/Users/jonne/projects/jorer.github.com/js/freelancer.js",
+		"/C/Users/jonne/projects/jorer.github.com/_includes/about.html",
+		"/C/Users/jonne/projects/jorer.github.com/_includes/contact_static.html",
+		"/C/Users/jonne/projects/jorer.github.com/_includes/contact.html",
+		"/C/Users/jonne/projects/jorer.github.com/js/contact_me.js",
+		"/C/Users/jonne/projects/jorer.github.com/_includes/footer.html",
+		"/C/Users/jonne/projects/jorer.github.com/_site/index.html",
+		"/C/Users/jonne/projects/jorer.github.com/_includes/nav.html",
+		"/C/Users/jonne/projects/jorer.github.com/_layouts/default.html",
+		"/C/Users/jonne/projects/jorer.github.com/_layouts/page.html",
+		"/C/Users/jonne/projects/jorer.github.com/_layouts/post.html",
+		"/C/Users/jonne/projects/jorer.github.com/img/profile.png",
+		"/C/Users/jonne/projects/jorer.github.com/js/contact_me_static.js",
+		"/C/Users/jonne/projects/jorer.github.com/js/classie.js",
+		"/C/Users/jonne/projects/jorer.github.com/mail/contact_me.php",
+		"/C/Users/jonne/projects/jorer.github.com/LICENCE",
+		"/C/Users/jonne/projects/jorer.github.com/_layouts/style.css",
+		"/C/Users/jonne/projects/jorer.github.com/index.html",
 		"/C/Users/jonne/projects/ng-test/package.json",
 		"/C/Users/jonne/projects/ng-test/gulpfile.js",
 		"/C/Users/jonne/Downloads/startbootstrap-freelancer-jekyll-master/startbootstrap-freelancer-jekyll-master/feed.xml",
@@ -257,8 +297,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Highlights",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "jorer.github.com",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -479,7 +576,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 223.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

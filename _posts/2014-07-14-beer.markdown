@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: beer.png
+alt: image-alt
+project-date: April 2014
+link: https://en.wikipedia.org/wiki/Beer
+category: Web Development
+description: Always up for a pint. Beer is good for your health.
+
+---
